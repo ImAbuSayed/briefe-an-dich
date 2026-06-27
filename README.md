@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/briefe-an-dich/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Briefe an dich](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/briefe-an-dich/) |
+| **Get License** | [License this song: Briefe an dich](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/briefe-an-dich/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4486)
 
 ---
 
