@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/briefe-an-dich/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Briefe an dich](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/briefe-an-dich/) |
+| **Get License** | [Official Music Licensing for Briefe an dich](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/briefe-an-dich/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8bc91ffa43a78fdd2ea731b5292078f398e2b467df8f6051b0390422f9872d16` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
